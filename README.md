@@ -37,7 +37,7 @@
 <br />
 <div align="center">
   
-  <img align="left" height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=canerguler00&show_icons=true&locale=en" alt="canerguler00" /> 
+  <img align="left" height="200em" width="400px" src="https://github-readme-stats.vercel.app/api?username=canerguler00&show_icons=true&locale=en" alt="canerguler00" /> 
 <img align="left" height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=canerguler00&show_icons=true&locale=en&layout=compact"          alt="canerguler00"/>
  
 </div><br>
