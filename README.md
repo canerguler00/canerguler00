@@ -1,5 +1,3 @@
-#canerguler
-
 
 <h1 >Hello there 👋, I'm Caner</h1>
 
