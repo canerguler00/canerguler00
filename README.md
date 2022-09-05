@@ -46,14 +46,7 @@
     /> 
  
 </div><br>
-<div align="center">  
-    <img
-      align="center"
-      width="396"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=canerguler00&" alt="canerguler00"
-    />  
-  <br>
-</div>
+
 
 <div align="left">
      <h3 align="left">Connect with me:</h3>
