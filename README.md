@@ -35,18 +35,19 @@
 
 <h2 align="center">⚡ Github Stats ⚡</h2>
 <br />
-
+<div align="center">
   <p>
-    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=canerguler00&show_icons=true&locale=en" alt="canerguler00" /> 
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=canerguler00&show_icons=true&locale=en" alt="canerguler00" /> 
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=canerguler00&show_icons=true&locale=en&layout=compact"          alt="canerguler00"/>
   </p>
-  <br>
-  <p>
-    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=canerguler00&show_icons=true&locale=en&layout=compact"             alt="canerguler00"/>
-  </p>
-  <br>
- <p>
-   <img align="left" width="396" src="https://github-readme-streak-stats.herokuapp.com/?user=canerguler00&" alt="canerguler00"/></a> 
-  </p>
+</div><br>
+<div align="center">  
+    <img
+      align="center"
+      width="396"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=canerguler00&" alt="canerguler00"
+    />
+  </a> 
   <br>
 
 <div align="left">
