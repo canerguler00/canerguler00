@@ -3,8 +3,6 @@
 
  - ✔️ I'm currently learning and developing on  --> HTML - CSS - JavaScript - ReactJS - NodeJS 
 
-- 💬 Ask me about --> HTML - CSS - JavaScript 
-
 - 📫 How to reach me --> c.guler58@gmail.com
 
 
